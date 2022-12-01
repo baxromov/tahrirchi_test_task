@@ -14,3 +14,15 @@ Answer:
 Answer:
   I would evaluate normal data.
  
+
+`HINT`: If you use unix system, you can jus run the `start_process.sh`
+
+Example: 
+```bash
+chmod +x start_process.sh
+
+```
+
+```bash
+./start_process.sh
+```
