@@ -1,4 +1,5 @@
 from utils.scrap import ScrapFromKunUz
 
-scrap = ScrapFromKunUz()
-scrap.get_csv()
+if __name__ == '__main__':
+    scrap = ScrapFromKunUz()
+    scrap.get_csv()
