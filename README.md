@@ -1,8 +1,10 @@
 # tahrirchi_test_task
 ## Some questions for reasoning:
 1. How would you automate this process so that we can get new datasets every day?
+
+
 Answer: 
-  For this question, I am got at in DevOps. So, Solution is We should write cron 
+  For this question, I am good at in DevOps. So, Solution is We should write cron 
 job for `start_process.sh` in particular time and every day the cron job works automaticaly
 and run `start_process.sh`.
 
